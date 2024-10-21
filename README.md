@@ -43,7 +43,7 @@ Este projeto aplica efeitos sonoros a arquivos de áudio, permitindo a criação
 3. **Execute o script**:
    - Para o efeito de reverberação (catedral):
      ```bash
-     python catedral.py
+     python catedralvoice.py
      ```
    - Para o efeito de voz robótica:
      ```bash
